@@ -1,5 +1,4 @@
 # Lenora Welborne
-# CIS261
 # Movie Guide Part 1
 def display_menu():
     print("The Movie List program")
